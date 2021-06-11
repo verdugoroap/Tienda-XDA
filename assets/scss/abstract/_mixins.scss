@@ -1,0 +1,6 @@
+//medias-query mixin
+@mixin respond-to($break-point) {
+    @media (min-width: $break-point) {
+        @content;
+    }
+}
