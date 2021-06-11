@@ -1,2 +1,2 @@
 # Tienda-XDA
-### Desafío layout
+### Desafío diseño responsivo
