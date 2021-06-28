@@ -9,7 +9,9 @@
             font-size: $x-large-font;
             padding: 12px 0 5px 0;
         }
-        /* Tamaño tablet */
+
+//Tablet size
+
         @include respond-to($bp-md-tablet) {
             &__title {
                 font-size: $xx-large-font;

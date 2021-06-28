@@ -16,7 +16,7 @@
         padding-left: 10px;
     }
 
-    //Tablet size
+//Tablet size
 
     @include respond-to($bp-md-tablet) {
         &__legend {

@@ -3,7 +3,8 @@
     display: grid;
     height: 100vh;
 
-    //Mobile size
+
+//Mobile size
 
     grid-template-columns: 90% 10%;
     grid-template-rows: 9% 33% 40% 18%;
@@ -33,7 +34,7 @@
 
     }
 
-    //Tablet version
+//Tablet size
 
     @include respond-to($bp-md-tablet) {
         grid-template-columns: 94vw 6vw;
@@ -60,7 +61,8 @@
         }
     }
 
-    //Desktop version
+    
+//Desktop size
 
     @include respond-to($bp-xl-desktop) {
         grid-template-columns: 39vw 4vw 57vw;

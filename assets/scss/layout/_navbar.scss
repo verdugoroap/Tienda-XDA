@@ -79,7 +79,8 @@
         background-color: #000000;
     }
 
-    //Tablet size
+
+//Tablet size
 
     @include respond-to($bp-md-tablet) {
         .navbar {
@@ -118,7 +119,8 @@
         }
     }
     
-    //Desktop size
+    
+//Desktop size
 
     @include respond-to($bp-xl-desktop) {
         .navbar {

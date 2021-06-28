@@ -1,4 +1,3 @@
-@charset "UTF-8";
 @import url("https://fonts.googleapis.com/css2?family=Old+Standard+TT:wght@400;700&family=Raleway:wght@400;700&display=swap");
 * {
   margin: 0;
@@ -264,10 +263,6 @@ body {
   }
 }
 
-.header {
-  /* Tamaño tablet */
-  /* Tamaño desktop */
-}
 .header__imagen {
   background: url(../img/imagen1.png);
   height: 40vh;
@@ -372,7 +367,6 @@ body {
 .footer {
   background-color: #0C0910;
   color: #FFF;
-  /* Tamaño tablet */
 }
 .footer__title {
   width: 80%;
