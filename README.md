@@ -1,4 +1,4 @@
 # Tienda-XDA
 
 ### Desafío diseño responsivo
-##### GIT PAGES: verdugoroap.github.io
+##### GIT PAGES: https://verdugoroap.github.io
